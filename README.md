@@ -2,6 +2,10 @@
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrdngur&show_icons=true&theme=material-palenight)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pwh)](https://solved.ac/pwh)
 <!--
 **qkrdngur/qkrdngur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
