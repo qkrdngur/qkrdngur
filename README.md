@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=minseo%20Chae&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=WooHyeok%20Chae&fontSize=90&animation=fadeIn)
 
 # GameDeveloper   
   ## 경기게임마이스터고등학교 2학년
