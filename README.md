@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visual Studio](https://img.shields.io/badge/VisualStudio-#5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=purple)
+![VisualStudio](https://img.shields.io/badge/VisualStudio-#5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=purple)
 <!--
 **qkrdngur/qkrdngur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
