@@ -18,7 +18,7 @@
 
 ---
 
-![qkrdngur's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrdngur&show_icons=true&theme=material-palenight)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrdngur&show_icons=true&theme=material-palenight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pwh)](https://solved.ac/pwh)
 <!--
