@@ -6,12 +6,12 @@
 ---    
 <br/>
 
-### 👋안녕하세요!👋<br/><br/>
-#### 저는 경기게임마이스터고등학교에 재학중인 박우혁 입니다.
-##### Start Programming : 2022.03 ~
-###### 3학년이 되어서 서버 개발을 공부 중 입니다!
-###### 유능한 개발자가 되기 위해 모든 것에 <span style="background-color:Beige"><b>호기심을 가지고</b></span> <span style="background-color:Beige"><b>쉴틈없이 도전하고</b></span> 있습니다.
-###### 뛰어난 개발자가 되기 위해 <span style="background-color:Beige"><b>언제든 배움의 자세</b></span>가 되어있습니다!
+## 👋안녕하세요!👋<br/><br/>
+### 저는 경기게임마이스터고등학교에 재학중인 박우혁 입니다.
+#### Start Programming : 2022.03 ~
+##### 3학년이 되어서 서버 개발을 공부 중 입니다!
+##### 유능한 개발자가 되기 위해 모든 것에 <span style="background-color:Beige"><b>호기심을 가지고</b></span> <span style="background-color:Beige"><b>쉴틈없이 도전하고</b></span> 있습니다.
+##### 뛰어난 개발자가 되기 위해 <span style="background-color:Beige"><b>언제든 배움의 자세</b></span>가 되어있습니다!
 
 
 <br/>
@@ -61,12 +61,12 @@
 
   <h3 align="center"> 💪 취미 생활 💪 </h6>    
   
-###### 건전한 취미 생활을 즐기면서 스트레스를 해소합니다!
+##### 건전한 취미 생활을 즐기면서 스트레스를 해소합니다!
   
- ##### ⚾ 야구 ⚾
- ##### 🏸 배드민턴 🏸
- ##### 📺 영화, 드라마 시청 📺
- ##### 🎮 게임 🎮
+ #### ⚾ 야구 ⚾
+ #### 🏸 배드민턴 🏸
+ #### 📺 영화, 드라마 시청 📺
+ #### 🎮 게임 🎮
 </br>
  여러 팀 프로젝트를 진행하면서 협업에 대해 배워,
   <span style="background-color:Beige"><b>문제 해결 능력</b></span>과  <span style="background-color:Beige"><b>팔로우쉽</b></span> 능력을 성장시켰습니다! 
