@@ -9,7 +9,8 @@
 ## 👋안녕하세요!👋<br/><br/>
 ### 저는 경기게임마이스터고등학교에 재학중인 박우혁 입니다.
 #### Start Programming : 2022.03 ~
-##### 3학년이 되어서 서버 개발을 공부 중 입니다!
+##### 클라이언트 개발자를 지망하고 있습니다!
+##### 3학년이 되어서 서버 개발도 공부 중 입니다!
 ##### 유능한 개발자가 되기 위해 모든 것에 <span style="background-color:Beige"><b>호기심을 가지고</b></span> <span style="background-color:Beige"><b>쉴틈없이 도전하고</b></span> 있습니다.
 ##### 뛰어난 개발자가 되기 위해 <span style="background-color:Beige"><b>언제든 배움의 자세</b></span>가 되어있습니다!
 
